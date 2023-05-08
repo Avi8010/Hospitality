@@ -1,0 +1,13 @@
+asgiref
+Django
+django-ckeditor
+django-crispy-forms
+django-js-asset
+django-phonenumber-field
+gunicorn
+phonenumbers
+Pillow
+psycopg2-binary
+pytz==2021.1
+sqlparse==0.4.1
+whitenoise==5.3.0
